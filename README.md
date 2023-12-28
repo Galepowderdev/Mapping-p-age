@@ -7,5 +7,6 @@ Discord --> galepowder
 
 – Install –
 
-1)add esx_garbagecrew to your resource maps folder.
+1)add peage_2 to your resource maps folder.
+
 2)start peage_2 in your server.cfg
